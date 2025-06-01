@@ -23,7 +23,7 @@ pip install opencv-python mediapipe numpy comtypes pycaw
 
 ## Project Structure 
 ```
-hand-gesture-volume-control
+Gesture Based Volume Control
 ├── HandTrackingModule.py    # Custom hand detection module
 ├── volume_control.py        # Main application script
 └── README.md                # This file
